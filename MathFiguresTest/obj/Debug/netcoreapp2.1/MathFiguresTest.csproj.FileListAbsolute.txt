@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFiguresTest.deps.json
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFiguresTest.runtimeconfig.json
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFiguresTest.runtimeconfig.dev.json
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFiguresTest.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFiguresTest.pdb
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFigures.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\bin\Debug\netcoreapp2.1\MathFigures.pdb
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.AssemblyInfo.cs
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.csproj.CopyComplete
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.dll
+C:\Users\User\source\repos\MathFigures\MathFiguresTest\obj\Debug\netcoreapp2.1\MathFiguresTest.pdb

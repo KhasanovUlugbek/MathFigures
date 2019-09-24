@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\MathFigures\MathFigures\bin\Debug\MathFigures.dll
+C:\Users\User\source\repos\MathFigures\MathFigures\bin\Debug\MathFigures.pdb
+C:\Users\User\source\repos\MathFigures\MathFigures\obj\Debug\MathFigures.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MathFigures\MathFigures\obj\Debug\MathFigures.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathFigures\MathFigures\obj\Debug\MathFigures.dll
+C:\Users\User\source\repos\MathFigures\MathFigures\obj\Debug\MathFigures.pdb
